@@ -1,5 +1,5 @@
 {
-    "name": "kristories/blockchain-exchange-rates",
+    "name": "kristories/nova-blockchain-exchange-rates",
     "description": "Currency data from the major bitcoin exchanges",
     "keywords": [
         "laravel",
