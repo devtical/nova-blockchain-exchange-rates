@@ -6,7 +6,7 @@ Currency data from the major bitcoin exchanges.
 
 ## Installation 
 
-You can install the Nova tool in to a [Laravel](http://laravel.com) app that uses [Nova](http://nova.laravel.com) via composer :
+You can install the package in to a [Laravel](http://laravel.com) app that uses [Nova](http://nova.laravel.com) via composer :
 
 ```cli
 composer require kristories/nova-blockchain-exchange-rates
@@ -24,7 +24,7 @@ use Kristories\BlockchainExchangeRates\BlockchainExchangeRates;
 
 // ...
 
-public function tools()
+public function cards()
 {
     return [
         // ...
